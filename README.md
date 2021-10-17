@@ -1,2 +1,3 @@
-# whitepaper
-Protocol specification for Sigma DAO
+# Protocol Whitepaper
+
+This repository contains the Sigma DAO protocol whitepaper, which describes a novel consensus-based mechanism for establishing an automonous decentralized asset-management DAO.
